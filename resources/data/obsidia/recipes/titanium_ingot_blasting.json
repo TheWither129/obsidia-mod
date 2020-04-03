@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "obsidia:rutile_crystal"
+    },
+    "result": "obsidia:titanium_ingot",
+    "experience": 4,
+    "cookingtime": 100
+}

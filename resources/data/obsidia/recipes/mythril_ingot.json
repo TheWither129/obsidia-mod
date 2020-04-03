@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "obsidia:titanium_ingot"
+        },
+        {
+            "item": "obsidia:end_diamond"
+        },
+        {
+            "item": "obsidia:titanium_ingot"
+        },
+        {
+            "item": "obsidia:end_diamond"
+        },
+        {
+            "item": "minecraft:netherite_scrap"
+        },
+        {
+            "item": "obsidia:end_diamond"
+        },
+        {
+            "item": "obsidia:titanium_ingot"
+        },
+        {
+            "item": "obsidia:end_diamond"
+        },
+        {
+            "item": "obsidia:titanium_ingot"
+        }
+    ],
+    "result": {
+        "item": "obsidia:mythril_ingot",
+        "count": 1
+    }
+}

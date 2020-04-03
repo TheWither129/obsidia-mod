@@ -1,0 +1,18 @@
+{
+    "item.obsidia.end_diamond": "End Diamond",
+    "item.obsidia.mythril_pickaxe": "Mythril Pickaxe",
+    "item.obsidia.mythril_sword": "Mythril Sword",
+    "block.obsidia.end_diamond_ore": "Ender Diamond Ore",
+    "item.obsidia.titanium_ingot": "Titanium Ingot",
+    "block.obsidia.rutile_crystal": "Rutilated Diamond Crystal",
+    "item.obsidia.mythril_ingot": "Mythril Ingot",
+    "biome.obsidia.brimstone_caverns": "Brimstone Caverns",
+    "block.obsidia.brimstone": "Brimstone",
+    "block.obsidia.sulfur_ore": "Sulfur Ore",
+    "item.obsidia.sulfur": "Sulfur",
+    "block.obsidia.ender_lichen": "Ender Lichen",
+    "biome.obsidia.corrupted_plains": "Corrupted Plains",
+    "block.obsidia.ender_roots": "Ender Roots",
+    "block.obsidia.ender_sprouts": "Ender Sprouts",
+    "block.obsidia.chorus_stem": "Chorus Stem"
+}

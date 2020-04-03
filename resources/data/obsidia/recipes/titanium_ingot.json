@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "obsidia:rutile_crystal"
+    },
+    "result": "obsidia:titanium_ingot",
+    "experience": 2,
+    "cookingtime": 400
+}
